@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: e943a4c705acc2444be14468d9e92c94
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WhiteRook: {fileID: 21300000, guid: 232c8e758228cb44394979b336b98b6e, type: 3}
+  - WhiteKnight: {fileID: 21300000, guid: 5ac364baad7ca72418e77dd7748d281d, type: 3}
+  - WhiteBishop: {fileID: 21300000, guid: dcaeab5727d0fa141a1048c03861ad9c, type: 3}
+  - WhitePawn: {fileID: 21300000, guid: 821dba1e51835344cb6f3860c4723730, type: 3}
+  - WhiteQueen: {fileID: 21300000, guid: 2109aa6685c1f8e48bd291668d761ab6, type: 3}
+  - WhiteKing: {fileID: 21300000, guid: 258631fbd4220984c9d5235fc04194c9, type: 3}
+  - BlackRook: {fileID: 21300000, guid: 6886630f2ac014a4f82dd100317499c0, type: 3}
+  - BlackKnight: {fileID: 21300000, guid: 041cd9ef47eb1ba4fb0a1cbce1dbdcbc, type: 3}
+  - BlackBishop: {fileID: 21300000, guid: 78d573e5b7b9e51498d7a8ccece1f8b3, type: 3}
+  - BlackPawn: {fileID: 21300000, guid: 02646a17c2086104e9305069ee56521b, type: 3}
+  - BlackQueen: {fileID: 21300000, guid: ebd3565fd57e5254d88f5aa758facf7b, type: 3}
+  - BlackKing: {fileID: 21300000, guid: 6e2860436e077f14fbb43ee16bb34f58, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
